@@ -1,0 +1,45 @@
+body{
+    background-color: #252830;
+    color: #DBDBDD;
+    /*background-color: wheat;*/
+    /*color: brown;*/
+}
+.tile_count {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.tile_stats_count {
+    margin-bottom: 10px;
+    border-right: 1px solid;
+    padding: 0 10px 0 20px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    position: relative;
+    font-size: 20px;
+}
+
+.tile_stats_count1 {
+    margin-bottom: 10px;
+    padding: 0 10px 0 20px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    position: relative;
+    font-size: 20px;
+}
+
+.count{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.doughnutchart{
+    padding-top: 80px;
+}
+
+.tableplot{
+    margin-top: 20px;
+}
+
